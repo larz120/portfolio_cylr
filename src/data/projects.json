@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Landing Page Inventores with Bootstrap",
+      "imageSrc": "projects/InventoresBootstrap.png",
+      "description": "Web page created and deployed for the Inventores laboratory.",
+      "skills": ["Bootstrap", "JavaScript", "HTML", "CSS"],
+      "demo": "https://larz120.github.io/LandingPageInventores/index.html",
+      "source": "https://github.com/larz120/LandingPageInventores.git"
+    },
+    {
+      "title": "Landing Page Inventores with Astro",
+      "imageSrc": "projects/InventoresAstro.png",
+      "description": "This landing page was developed to learn about Astro framework.",
+      "skills": ["Astro", "Tailwind", "JavaScript", "HTML", "CSS"],
+      "demo": "https://inventores.netlify.app",
+      "source": "https://github.com/larz120/InventoresAstro"
+    },
+    {
+      "title": "Cart Component for Guitars E-Commerce",
+      "imageSrc": "projects/GuitarLA.png",
+      "description": "Made it with React as a practice to learn about hooks and components.",
+      "skills": ["React", "JavaScript", "HTML", "CSS"],
+      "demo": "https://guitarlarz.netlify.app",
+      "source": "https://github.com/larz120/GuitarLA"
+    },
+    {
+      "title": "Flappy Navi - Mobile Game",
+      "imageSrc": "projects/FlappyNavi.png",
+      "description": "This project was made to learn the basics of unity and videogame engineering.",
+      "skills": ["Unity", "C#", "Pixilart"],
+      "demo": "https://larz-12.itch.io/flappy-navi",
+      "source": "https://github.com/larz120/FlappyNavi-Unity"
+    }
+  ]

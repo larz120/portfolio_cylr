@@ -1,0 +1,18 @@
+/*Variables cargadas con estilos para optimizar diseño de la página*/
+
+:root{
+    /** Colours */
+    --color-text: #fff;
+    --color-primary: rgb(85, 143, 250);
+    --color-secondary: #1f3a8a;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+    --color-blur:  rgba(37, 27, 114, 0.637);
+    --color-gradient: rgba(98, 15, 207, 0.295);
+
+    /** Fonts */
+    --font-roboto: "Roboto";
+    --font-outfit: "Outfit";
+
+    
+}

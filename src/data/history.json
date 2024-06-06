@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Laboratory cordinator",
+      "organisation": "Laboratorio de Inventores - CUCEI",
+      "startDate": "Aug, 2023",
+      "endDate": "Mar, 2024",
+      "experiences": ["Made a landing page for the lab", "Created a videogame with Unity", "Managed multidisciplinary projects", "Managed an leaded the radio podcast of Inventores"],
+      "imageSrc": "history/inventores.png"
+    },
+    {
+      "role": "Operations analysis",
+      "organisation": "HEMAC",
+      "startDate": "Feb, 2023",
+      "endDate": "Jul, 2023",
+      "experiences": ["Supported the 'Red Jalisco' government program", "Documented evidence of network devices maintence", "Managed device installation paperwork", "Marking installation locations"],
+      "imageSrc": "history/hemac.png"
+    }
+  ]

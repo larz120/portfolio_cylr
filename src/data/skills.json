@@ -1,0 +1,46 @@
+[
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/DeviconJavascript.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Vite",
+      "imageSrc": "skills/DeviconVitejs.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/DeviconPython.png"
+    },{
+      "title": "C#",
+      "imageSrc": "skills/DeviconCsharp.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/DeviconGit.png"
+    },{
+      "title": "DBeaver",
+      "imageSrc": "skills/DeviconDbeaver.png"
+    },{
+      "title": "MySQL",
+      "imageSrc": "skills/DeviconMysql.png"
+    },{
+      "title": "VirtualBox",
+      "imageSrc": "skills/virtualbox.png"
+    },{
+      "title": "Blender",
+      "imageSrc": "skills/DeviconBlender.png"
+    }
+    
+  ]

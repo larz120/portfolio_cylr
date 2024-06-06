@@ -1,0 +1,17 @@
+/**  Estilos para todos los coponentes HTML de index */
+
+*{
+    box-sizing: border-box; /*El margen de los elementos se define por sus dimensiones*/
+    margin: 0;
+    padding: 0;
+    font-family: "Outfit", Arial, Helvetica, sans-serif;  /*Prioridad de uso de fuentes*/
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
