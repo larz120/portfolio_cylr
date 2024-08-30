@@ -1,5 +1,12 @@
 [
     {
+      "role": "Open Sytem Lab Test Automation Intern",
+      "organisation": "IMB - Gdl",
+      "startDate": "Jul, 2024",
+      "experiences": ["I collaborate by solving issues as tickets", "I help on the implementation of internal tools", "Development of scripts for automate tasks", "Contributions to an open source tool to manage lab inventory"],
+      "imageSrc": "history/IBM2.png"
+    },
+    {
       "role": "Laboratory cordinator",
       "organisation": "Laboratorio de Inventores - CUCEI",
       "startDate": "Aug, 2023",

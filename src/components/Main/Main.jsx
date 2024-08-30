@@ -12,7 +12,7 @@ export default function Main() {
                 <h1 className={styles.title}>Carlos Yahir Lara Ruiz</h1>
                 <h2>Computer Science & Engineering Student </h2>
                 <p>
-                    My professional goal is to become a full-stack developer and an important element that can contribute effectively to a leading company.
+                    My professional goal is to become a great element in a team dedicated to QA, development of tools for automation and IT.  
                 </p>
                 <a className={styles.cvBtn} href={getImageURL("main/cv/CYLR_Resume.pdf")} download>
                     <img className={styles.downloadIcon} src={getImageURL("main/downloadIcon.svg")}alt="download-icon" />

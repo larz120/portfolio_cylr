@@ -6,7 +6,7 @@ export default function About(){
 
     return(
         <section className={styles.container} id="About">
-            <h1 className={styles.title}>ABOUT</h1>
+            <h1 className={styles.title}>ABOUT ME</h1>
             <div className={styles.content}>
 
                 <img  className={styles.imgAbout} src={getImageURL("about/programmer.png")} alt="img-about" />
@@ -15,9 +15,9 @@ export default function About(){
                     <li className={styles.card}>
                     <img className={styles.cardImg} src={getImageURL("about/graduate.svg")} alt="a" />
                         <div className={styles.cardText}>
-                            <h2 >Soon to graduate in december 2024</h2>
+                            <h2 >Soon to graduate </h2>
                             <p>
-                            Bachelor of Science Degree in Computer Engineering at 'CUCEI - Universidad de Guadalajara'
+                            Bachelor of Engineering in Computer Science at 'CUCEI - Universidad de Guadalajara'
                             </p>
                         </div>
                         
@@ -28,7 +28,7 @@ export default function About(){
                         <div className={styles.cardText}>
                             <h2>My interests</h2>
                             <p>
-                            I have experience in the development of landig pages and interactive webs with React. I would like to learn about UX, backend and AWS
+                            Interested on developing myself in the QA area, the development and maintence of tools a scripts for automation, networks and IT.  
                             </p>
                         </div>
                     </li>
